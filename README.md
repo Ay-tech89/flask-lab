@@ -1,6 +1,6 @@
 # 🚀 Flask Lab
 
-**Flask Lab** is a collection of projects, experiments, and practice code built using the Flask web framework in Python. This repository serves as a personal learning space to explore how Flask works — from basic routing and templating to more advanced features like blueprints, forms, databases, and API development.
+> **Flask Lab** is a collection of projects, experiments, and practice code built using the Flask web framework in Python. This repository serves as a personal learning space to explore how Flask works — from basic routing and templating to more advanced features like blueprints, forms, databases, and API development.
 
 ---
 
